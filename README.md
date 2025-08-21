@@ -7,21 +7,26 @@
 
 - [Others](#others)
 
+
 ## Others 
 
 ### Assembly
+
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [corkami/pocs](https://github.com/corkami/pocs) - Proof of Concepts (PE, PDF...)
 
 ### Boo
+
 - [byt3bl33d3r/SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR
 
 ### Bro
+
 - [LiamRandall/BroMalware-Exercise](https://github.com/LiamRandall/BroMalware-Exercise) - 
 - [corelight/http-stalling-detector](https://github.com/corelight/http-stalling-detector) - Detect HTTP stalling attacks like slowloris with Bro
 - [pvnguyen/docker-bro-elk](https://github.com/pvnguyen/docker-bro-elk) - Bro Network Security Monitor integration with ELK stack using Docker Compose
 
 ### C
+
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -50,6 +55,7 @@
 - [504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME) - LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring
 
 ### C#
+
 - [DragoQCC/CrucibleC2](https://github.com/DragoQCC/CrucibleC2) - A C# Command & Control framework
 - [moaistory/WinSearchDBAnalyzer](https://github.com/moaistory/WinSearchDBAnalyzer) - http://moaistory.blogspot.com/2018/10/winsearchdbanalyzer.html
 - [aniqfakhrul/Sharperner](https://github.com/aniqfakhrul/Sharperner) - Simple executable generator with encrypted shellcode.
@@ -63,6 +69,7 @@
 - [Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
 
 ### C++
+
 - [ReversecLabs/C3](https://github.com/ReversecLabs/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
 - [josh0xA/rrgen](https://github.com/josh0xA/rrgen) - A Header Only C++ Library for Storing Safe Pseudorandom Values into Modern Containers with Uniform Integer Distributions
 - [mgeeky/ThreadStackSpoofer](https://github.com/mgeeky/ThreadStackSpoofer) - Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts.
@@ -78,15 +85,18 @@
 - [rampageX/paping](https://github.com/rampageX/paping) - Automatically exported from code.google.com/p/paping
 
 ### CSS
+
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [P0cL4bs/Nanobrok](https://github.com/P0cL4bs/Nanobrok) - Web Service write in Python for control and protect your android device remotely.
 - [merces/aleph](https://github.com/merces/aleph) - An Open Source Malware Analysis Pipeline System
 
 ### DIGITAL Command Language
+
 - [fire1ce/eicar-standard-antivirus-test-files](https://github.com/fire1ce/eicar-standard-antivirus-test-files) - eicar standard antivirus test files
 
 ### Go
+
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [0xrawsec/whids](https://github.com/0xrawsec/whids) - Open Source EDR for Windows
@@ -134,9 +144,11 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
 ### HCL
+
 - [RedTeamOperations/Red-Infra-Craft](https://github.com/RedTeamOperations/Red-Infra-Craft) - RedInfraCraft automates the deployment of powerful red team infrastructures! It streamlines the setup of C2s, makes it easy to create advanced phishing & payload infras
 
 ### HTML
+
 - [H4cksploit/bug-bounty-automation](https://github.com/H4cksploit/bug-bounty-automation) - 
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [cisagov/decider](https://github.com/cisagov/decider) - A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
@@ -161,9 +173,11 @@
 - [sensepost/mana](https://github.com/sensepost/mana) - *DEPRECATED* mana toolkit for wifi rogue AP attacks and MitM
 
 ### Inno Setup
+
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 
 ### Java
+
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) - Open Adversary Exposure Validation Platform
 - [moeinfatehi/Backup-Finder](https://github.com/moeinfatehi/Backup-Finder) - A burp suite extension that reviews backup, old, temporary and unreferenced files on web server for sensitive information (OWASP WSTG-CONF-04, OTG-CONFIG-004)
@@ -182,6 +196,7 @@
 - [wszf/androrat](https://github.com/wszf/androrat) - androrat
 
 ### JavaScript
+
 - [PatrickKalkman/nibble](https://github.com/PatrickKalkman/nibble) - AI that improves your code one bite at a time
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [prodaft/cradle](https://github.com/prodaft/cradle) - CRADLE is a collaborative platform for Cyber Threat Intelligence analysts. It streamlines threat investigations with integrated note-taking, automated data linking, interactive visualizations, and rob
@@ -220,9 +235,11 @@
 - [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 
 ### Jinja
+
 - [splunk/attack_range](https://github.com/splunk/attack_range) - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
 
 ### Jupyter Notebook
+
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
@@ -232,19 +249,24 @@
 - [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!
 
 ### MDX
+
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ### OCaml
+
 - [caradoc-org/caradoc](https://github.com/caradoc-org/caradoc) - A PDF parser and validator
 
 ### Objective-C
+
 - [lucasjacks0n/EggShell](https://github.com/lucasjacks0n/EggShell) - iOS/macOS/Linux Remote Administration Tool
 
 ### Objective-J
+
 - [secretsquirrel/Krakatau](https://github.com/secretsquirrel/Krakatau) - Java decompiler, assembler, and disassembler
 
 ### Others
+
 - [reewardius/Nuclei-AI-Prompts](https://github.com/reewardius/Nuclei-AI-Prompts) - Nuclei-AI-Prompts
 - [raphabot/awesome-cybersecurity-agentic-ai](https://github.com/raphabot/awesome-cybersecurity-agentic-ai) - 
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
@@ -287,6 +309,7 @@
 - [hiro4848/sphinx](https://github.com/hiro4848/sphinx) - 
 
 ### PHP
+
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
 - [lucthienphong1120/AIO-Pentesting](https://github.com/lucthienphong1120/AIO-Pentesting) - All in one Pentest methodologies - Tools and commands | Where compiled all common materials for pentester
 - [chris-short/sptoolkit](https://github.com/chris-short/sptoolkit) - Simple Phishing Toolkit is a super easy to install and use phishing framework built to help Information Security professionals find human vulnerabilities
@@ -297,15 +320,18 @@
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 
 ### Pascal
+
 - [PhrozenIO/win-brute-logon](https://github.com/PhrozenIO/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included)
 
 ### Perl
+
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper3.0
 - [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
 - [miguelraulb/spamhat](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
 
 ### PowerShell
+
 - [monnappa22/Garuda-framework](https://github.com/monnappa22/Garuda-framework) - A comprehensive PowerShell-based threat hunting and incident response framework for Windows environments, built around Sysmon event analysis and forensic investigation capabilities.
 - [mgeeky/ProtectMyTooling](https://github.com/mgeeky/ProtectMyTooling) - Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with 
 - [ion-storm/sysmon-config](https://github.com/ion-storm/sysmon-config) - Advanced Sysmon ATT&CK configuration focusing on Detecting the Most Techniques per Data source in MITRE ATT&CK,  Provide Visibility into Forensic Artifact Events for UEBA, Detect Exploitation events w
@@ -327,9 +353,11 @@
 - [davehull/Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework
 
 ### Pug
+
 - [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
 
 ### Python
+
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [davidwolverton/Splunk_to_Elastic_Security_LLM_Detection_Converter](https://github.com/davidwolverton/Splunk_to_Elastic_Security_LLM_Detection_Converter) - Scripts used to convert Splunk detections to Elastic Security using OpenAI and Google Gemini
@@ -621,9 +649,11 @@
 - [idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid) - CuckooDroid - Automated Android Malware Analysis with Cuckoo Sandbox.
 
 ### Roff
+
 - [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertman
 
 ### Ruby
+
 - [spree/spree](https://github.com/spree/spree) - An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails
 - [ronin-rb/ronin](https://github.com/ronin-rb/ronin) - Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd-party git rep
 - [coolacid/logstash-filter-virustotal](https://github.com/coolacid/logstash-filter-virustotal) - Virustotal Lookup filter for Logstash
@@ -632,6 +662,7 @@
 - [philhagen/sof-elk](https://github.com/philhagen/sof-elk) - Configuration files for the SOF-ELK VM
 
 ### Rust
+
 - [cisagov/thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
@@ -641,13 +672,16 @@
 - [das-labor/panopticon](https://github.com/das-labor/panopticon) - A libre cross-platform disassembler.
 
 ### SCSS
+
 - [rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT) - Detect Tactics, Techniques & Combat Threats
 
 ### Scala
+
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [philwantsfish/shard](https://github.com/philwantsfish/shard) - A command line tool to detect shared passwords
 
 ### Shell
+
 - [0xElkot/Bug-Bounty-Automation](https://github.com/0xElkot/Bug-Bounty-Automation) - 
 - [Leviathan36/kaboom](https://github.com/Leviathan36/kaboom) - A tool to automate penetration tests
 - [rix4uni/scope](https://github.com/rix4uni/scope) - An automated GitHub Actions-based crawler that fetches and updates public scopes from popular bug bounty platforms (like Hackerone/Bugcrowd/Intigriti/etc) (updates every 10 minutes)
@@ -693,13 +727,16 @@
 - [ChrisTruncer/mikto](https://github.com/ChrisTruncer/mikto) - Script to automate, manage, and multithread Nikto scans.
 
 ### Smali
+
 - [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY) - XploitSPY is an Android Monitoring Tool
 - [AhMyth/AhMyth-Android-RAT](https://github.com/AhMyth/AhMyth-Android-RAT) - Android Remote Administration Tool
 
 ### TeX
+
 - [corkami/docs](https://github.com/corkami/docs) - documentations, slides decks...
 
 ### TypeScript
+
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
@@ -731,34 +768,43 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ### VBA
+
 - [S3cur3Th1sSh1t/OffensiveVBA](https://github.com/S3cur3Th1sSh1t/OffensiveVBA) - This repo covers some code execution and AV Evasion methods for Macros in Office documents
 
 ### Vim Script
+
 - [citizenlab/malware-signatures](https://github.com/citizenlab/malware-signatures) - Yara rules for malware families seen as part of targeted threats project
 
 ### Visual Basic
+
 - [Mr-Un1k0d3r/MaliciousMacroGenerator](https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator) - Malicious Macro Generator
 
 ### Vue
+
 - [northsh/detection.studio](https://github.com/northsh/detection.studio) - Convert Sigma rules to SIEM queries, directly in your browser.
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 
 ### XSLT
+
 - [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
 
 ### YARA
+
 - [Xumeiquer/yara-forensics](https://github.com/Xumeiquer/yara-forensics) - Set of Yara rules for finding files using magics headers
 - [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) - YARA signature and IOC database for my scanners and tools
 - [decalage2/balbuzard](https://github.com/decalage2/balbuzard) - Balbuzard is a package of malware analysis tools in python to extract patterns of interest from suspicious files (IP addresses, domain names, known file headers, interesting strings, etc).  It can als
 - [Yara-Rules/rules](https://github.com/Yara-Rules/rules) - Repository of yara rules
 
 ### Zeek
+
 - [blacktop/docker-bro](https://github.com/blacktop/docker-bro) - Bro IDS Dockerfile
 
 ### Zig
+
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ### awesome
+
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -766,62 +812,78 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 ### bugbounty
+
 - [Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter
 - [0xmaximus/Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) - Tips and Tutorials for Bug Bounty and also Penetration Tests.
 - [h33tlit/secret-regex-list](https://github.com/h33tlit/secret-regex-list) - List of regex for scraping secret API keys and juicy information.
 - [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 
 ### chatgpt
+
 - [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI) - A curated list of awesome AGI frameworks, software and resources
 
 ### cybersecurity
+
 - [spydisec/spydithreatintel](https://github.com/spydisec/spydithreatintel) - A repository dedicated to sharing Indicators of Compromise (IOCs) from production systems experiencing security incidents and OSINT feeds.
 - [BushidoUK/Ransomware-Tool-Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A resource containing all the tools each ransomware gangs uses
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [mturhanlar/turme](https://github.com/mturhanlar/turme) - This is a repository for Penetration Test, Purple Team Exercise and Red Team
 
 ### hacking
+
 - [DavidProbinsky/RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) - Red Team Toolkit - A curated list of tools that are commonly used in the field for Physical Security, Red Teaming, and Tactical Covert Entry.
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book) - 
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 
 ### hacktoberfest
+
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 
 ### instagram
+
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ### llm
+
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 ### osint
+
 - [CScorza/OSINTAnonymous](https://github.com/CScorza/OSINTAnonymous) - Creazione d'identità Fake - Impostazione Privacy Profili Social - Creazione Ambiente di Lavoro
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 
 ### pentesting
+
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
 
 ### powershell
+
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) - You didn't think I'd go and leave the blue team out, right?
 
 ### security
+
 - [zeek/packages](https://github.com/zeek/packages) - The default package source of the Zeek Package Manager. Wrote a package? See the README for how to get it included.
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
 ### security-tools
+
 - [Pr0teus/aleph-docker](https://github.com/Pr0teus/aleph-docker) - An docker compose to quickly load your Aleph for malware analysis.
 
 ### statistics
+
 - [Phishing-Database/Phishing.Database](https://github.com/Phishing-Database/Phishing.Database) - Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used f
 
 ### telegram
+
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 
 ### windows
+
 - [SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
+
 
 
 ## License
@@ -829,4 +891,3 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [andr6](https://github.com/andr6) has waived all copyright and related or neighboring rights to this work.
-
